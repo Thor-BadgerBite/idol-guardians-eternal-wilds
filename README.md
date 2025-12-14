@@ -662,71 +662,33 @@ Total: 1 Legendary + 4 Rares = 1,400 currency/hour
 📖 **[Base Building System →](./BASE_BUILDING_DESIGN.md)** *(coming soon)*
 
 ---
+## 🌍 Multiplayer System (Three Modes)
 
-## 🤝 Co-Op PvE Expeditions
+Players choose their experience before each expedition:
 
-Players can team up in **squads** for safer expeditions.
+### **Mode 1: Solo Expeditions**
+- Private instance, no player interaction
+- Standard rewards (100% baseline)
+- Safe exploration, perfect for learning
+- Full control over pacing
 
-### **👥 Squad Sizes**
+### **Mode 2: Co-op PvE**
+- Team up with 2-6 players
+- **NO player combat** (purely cooperative)
+- Shared boss fights and captures
+- Fair loot distribution (Roll/Pass/Need/Assigned systems)
+- **Hybrid Proximity Join**: Meet players organically in the wild (optional)
+- Difficulty scales with squad size
 
-- Solo (1 player)
-- Duo (2 players)
-- Squad (3-4 players)
+### **Mode 3: PvPvE High Stakes**
+- **Player combat enabled** via Pet Duel system
+- 150% loot multiplier + 2x legendary spawn rate
+- Risk: Lose 75% of cargo on death
+- **Pet Duels**: Fight opponent's companion pet (skill-based, not gear-check)
+- Anti-griefing: Power brackets, staked combat, safe zones, extraction protection
+- Optional but highly rewarding
 
----
-
-### **🎁 Shared Encounters & Loot**
-
-- Squad fights bosses together
-- Captured pet becomes **squad cargo objective** (temporary)
-- At extraction, reward distribution system activates
-
----
-
-### **🎲 Loot Distribution Options**
-
-To reduce drama and support social play:
-
-**Option 1: Dice Roll**
-- Random weighted roll among squad members
-- Weighted by contribution (damage dealt, heals, etc.)
-
-**Option 2: Pass/Need System**
-- Like MMO dungeon loot
-- Players vote on who gets pet
-- Prevents ninja looting
-
-**Option 3: Pre-Agreed Ownership**
-- Squad leader assigns loot before run
-- Clear expectations
-
-**Option 4: Everyone Gets Copy (Solo Mode)**
-- Easier but less valuable
-
----
-
-### **🤝 Squad Synergies**
-
-- Companions can **stack buffs** (e.g., Tank + DPS combo)
-- Shared healing pools
-- Revive downed teammates (limited uses)
-- Coordinated extraction routes
-
-📖 **[Co-Op System Design →](./COOP_SYSTEM_DESIGN.md)** *(coming soon)*
-
----
-
-## ⚔️ PvPvE Mode (High Risk, High Reward)
-
-A **unique competitive mode** with strict anti-grief systems.
-
-### **🎯 Core Idea**
-
-PvPvE map is:
-- Harder enemies (higher rarity spawns)
-- Rarer pets (better loot)
-- More rewarding (2x currency, unique mutations)
-- **PvP enabled** - players can ambush others carrying loot
+📖 **[Full Multiplayer Combat System Design →](./MULTIPLAYER_COMBAT_SYSTEM_DESIGN.md)**
 
 ---
 
