@@ -1,0 +1,9 @@
+.DS_Store
+*.rbxl
+*.rbxlx
+*.log
+*.tmp
+*.bak
+*.local
+aftman.lock
+node_modules/
