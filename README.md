@@ -113,7 +113,6 @@ Skill trees do *not* have finite caps — they expand as pets level.
 Inspired by extraction games (like *Palworld*):
 
 1) You encounter a roaming boss pet
-2) You battle waves of minions
 3) Pet is weakened
 4) You attempt capture
 
@@ -130,7 +129,23 @@ If capture fails:
 No fight is ever wasted.
 
 ---
+## ⚔️ Combat System (Unique Mechanic)
 
+**Skill-Based Timing Combat** - Not your typical Roblox spam-click system!
+
+### How Combat Works
+- Enemy attacks → Shrinking circle appears at random position
+- Player must tap correct button (DODGE/BLOCK/COUNTER) at perfect timing
+- Perfect timing = 0 damage taken + full counterattack
+- Miss = full damage + no counterattack
+
+### What Makes It Special
+✅ **Mobile-optimized**: Single-tap defense, no complex controls
+✅ **Skill > Stats**: Perfect timing beats higher levels
+✅ **Endless depth**: Rare enemies have complex combo patterns
+✅ **Spectator-friendly**: Clutch plays create hype moments
+
+[Full Combat System Documentation →](./COMBAT_SYSTEM_DESIGN.md)
 ## 🧱 Inventory & Extraction Mechanics
 
 ### 🧳 Inventory Limits
